@@ -1,0 +1,3 @@
+difference between fetch & pull are
+In fetch command :- Update will be download by git and not merge untill we use merge command in our local directory
+Whereas another hand by using pull command update will download & merge in local directory
